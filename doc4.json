@@ -1,0 +1,16 @@
+{ "add" : 
+   { "doc" :
+      {
+        "application":"web",
+        "description":"Kink FM top 40 songs",
+        "docType":"url",
+        "id":"c045905c-7874-4e63-80d2-c1a839694bca",
+        "rating":0,
+        "timestamp":1303571520296,
+        "title":"Kink 40",
+        "url":"http://www.kinkfm.com/kink40",
+        "tag":["music"]
+      }
+   }
+}
+

@@ -1,0 +1,14 @@
+{ "add" : 
+   { "doc" :
+      {
+        "application":"web",
+        "docType":"url",
+        "id":"9ae51134-32a6-40fe-a50b-db0b296fe572",
+        "rating":0,
+        "timestamp":1303572885371,
+        "title":"Solandra FAQ",
+        "url":"https://github.com/tjake/Solandra/wiki/Frequentlyaskedquestions",
+        "tag":["cassandra","solandra","solr"]}
+   }
+ }
+

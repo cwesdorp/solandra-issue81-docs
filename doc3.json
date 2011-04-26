@@ -1,0 +1,16 @@
+{ "add" : 
+   { "doc" :
+      {
+        "application":"web",
+        "description":"dzone development blog links",
+        "docType":"url",
+        "id":"a2d506ca-99f2-4cd9-9f48-c3aeb562c39c",
+        "rating":0,
+        "timestamp":1303571174846,
+        "title":"DZone",
+        "url":"http://www.dzone.com/links/index.html",
+        "tag":["development","links"]
+      }
+   }
+}
+

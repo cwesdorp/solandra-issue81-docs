@@ -1,0 +1,16 @@
+{ "add" : 
+   { "doc" :
+      {
+        "application":"web",
+        "description":"nzbget software",
+        "docType":"url",
+        "id":"031f474d-cf64-4252-bef7-a84237773fb1",
+        "rating":0,
+        "timestamp":1303571153605,
+        "title":"NZBGet",
+        "url":"http://nzbget.sourceforge.net/Main_Page",
+        "tag":["newsgroup","software","nzb","download"]
+      }
+   }
+ }
+

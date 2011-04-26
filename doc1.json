@@ -1,0 +1,15 @@
+{ "add" : 
+   { "doc" :
+      {
+        "application":"web",
+        "description":"test",
+        "docType":"url",
+        "id":"a8eda933-4aba-490e-95f3-00ffdc8965eb",
+        "rating":0,
+        "timestamp":1303571137645,
+        "title":"test",
+        "url":"http://jquery.com/",
+        "tag":["test"]
+      }
+   }
+ }
